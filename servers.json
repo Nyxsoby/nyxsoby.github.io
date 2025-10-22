@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "dont",
-            "address": "http://ektoolstest.duckdns.org/"
+            "address": "https://ektoolstest.duckdns.org/"
         }
     ]
 }
