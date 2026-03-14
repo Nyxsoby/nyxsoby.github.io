@@ -1,6 +1,7 @@
 {
   "name": "RushHours Repo",
   "identifier": "com.rushhours.repo",
+  "sourceURL": "https://nyxsoby.github.io/source.json",
   "apps": [
     {
       "name": "RushHours",
@@ -9,15 +10,11 @@
       "localizedDescription": "Rush Hour puzzle game.",
       "iconURL": "https://i.imgur.com/71j15Xh.png",
       "tintColor": "e5a019",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "buildVersion": "1",
-          "date": "2026-03-14T16:23:00+01:00",
-          "downloadURL": "https://github.com/ekomlenovic/test_rush_hours/releases/download/0.0.1/rush-hours-unsigned.ipa",
-          "size": 9400000
-        }
-      ]
+      "version": "0.0.1",
+      "buildVersion": "1",
+      "versionDate": "2026-03-14",
+      "downloadURL": "https://github.com/ekomlenovic/test_rush_hours/releases/download/0.0.1/rush-hours-unsigned.ipa",
+      "size": 9400000
     }
   ]
 }
