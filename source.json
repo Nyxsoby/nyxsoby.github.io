@@ -1,32 +1,23 @@
 {
-  "name": "RushHour Repo",
+  "name": "RushHours Repo",
   "identifier": "com.rushhours.repo",
   "apps": [
     {
       "name": "RushHours",
       "bundleIdentifier": "com.rushhours.app",
       "developerName": "eko",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "Rush Hour puzzle game.",
       "iconURL": "https://i.imgur.com/71j15Xh.png",
-      "tintColor": "#e5a019",
-      "category": "other",
-      "screenshots": [],
+      "tintColor": "e5a019",
       "versions": [
         {
-          "downloadURL": "https://github.com/ekomlenovic/test_rush_hours/releases/download/0.0.1/rush-hours-unsigned.ipa",
-          "size": 9400000,
           "version": "0.0.1",
-          "buildVersion": null,
+          "buildVersion": "1",
           "date": "2026-03-14T16:23:00+01:00",
-          "localizedDescription": null,
-          "minOSVersion": null
+          "downloadURL": "https://github.com/ekomlenovic/test/releases/download/0.0.0/rush-hours-unsigned.ipa",
+          "size": 9400000
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
+      ]
     }
   ]
 }
