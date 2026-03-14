@@ -1,28 +1,32 @@
 {
-  "name": "RushHours",
-  "bundleIdentifier": "com.rushhours.app",
-  "marketplaceID": "",
-  "developerName": "eko",
-  "subtitle": "An awesome app.",
-  "localizedDescription": "This is an awesome app only available on AltStore.",
-  "iconURL": "https://i.imgur.com/71j15Xh.png",
-  "tintColor": "#e5a019",
-  "category": "other",
-  "screenshots": [],
-  "versions": [
+  "name": "RushHour Repo",
+  "identifier": "com.rushhours.repo",
+  "apps": [
     {
-      "downloadURL": "https://github.com/ekomlenovic/test/releases/download/0.0.0/rush-hours-unsigned.ipa",
-      "size": 9400000,
-      "version": "0.0.1",
-      "buildVersion": null,
-      "date": "2026-03-14T16:23:00+01:00",
-      "localizedDescription": null,
-      "minOSVersion": null
+      "name": "RushHours",
+      "bundleIdentifier": "com.rushhours.app",
+      "developerName": "eko",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/71j15Xh.png",
+      "tintColor": "#e5a019",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ekomlenovic/test_rush_hours/releases/download/0.0.1/rush-hours-unsigned.ipa",
+          "size": 9400000,
+          "version": "0.0.1",
+          "buildVersion": null,
+          "date": "2026-03-14T16:23:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
-  ],
-  "appPermissions": {
-    "entitlements": [],
-    "privacy": {}
-  },
-  "patreon": {}
+  ]
 }
