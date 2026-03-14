@@ -1,0 +1,9 @@
+[
+  {
+    "name": "RushHours",
+    "bundleIdentifier": "com.rushhours.app",
+    "version": "0.0.1",
+    "downloadURL": "https://github.com/ekomlenovic/test/releases/download/0.0.0/rush-hours-unsigned.ipa",
+    "iconURL": "https://i.imgur.com/71j15Xh.png"
+  }
+]
